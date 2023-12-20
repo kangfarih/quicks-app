@@ -1,0 +1,32 @@
+
+export const COLORS = {
+    PRIMARY_1: '#2F80ED',
+    PRIMARY_2: '#4F4F4F',
+    PRIMARY_3: '#828282',
+    PRIMARY_4: '#E0E0E0',
+
+    INDICATOR_1: '#F8B76B',
+    INDICATOR_2: '#8785FF',
+    INDICATOR_3: '#EB5757',
+    INDICATOR_4: '#F2C94C',
+
+    CHATS_1A: '#FCEED3',
+    CHATS_1B: '#E5A443',
+    CHATS_2A: '#EEDCFF',
+    CHATS_2B: '#9B51E0',
+    CHATS_3A: '#D2F2EA',
+    CHATS_3B: '#43B78D',
+
+    STIKCERS_1: '#E9F3FF',
+    STIKCERS_2: '#FDCFA4',
+    STIKCERS_3: '#F9E9C3',
+    STIKCERS_4: '#AFEBDB',
+    STIKCERS_5: '#CBF1C2',
+    STIKCERS_6: '#CFCEF9',
+    STIKCERS_7: '#F9E0FD',
+}
+
+export const FONTS = {
+    LATO_REGULAR: '',
+    LATO_BOLD: '',
+}
